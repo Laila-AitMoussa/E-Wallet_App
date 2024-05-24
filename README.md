@@ -33,11 +33,11 @@ The E-Wallet App is a mobile application designed to give users a convenient way
   <img src="Screenshots/Dark_Mode.png" width="200" height="400" />
 </p>
 
-##Technologies Used
+## Technologies Used
 
--Flutter: A framework for building cross-platform mobile applications.
--[Hive](https://docs.hivedb.dev/#/README): A lightweight and fast key-value database for storing local app data.
--Bloc(Cubit): A state management library for Flutter applications, facilitating the separation of UI and business logic.
+- Flutter: A framework for building cross-platform mobile applications.
+- [Hive](https://docs.hivedb.dev/#/README): A lightweight and fast key-value database for storing local app data.
+- Bloc(Cubit): A state management library for Flutter applications, facilitating the separation of UI and business logic.
 
 ## Getting Started
 
