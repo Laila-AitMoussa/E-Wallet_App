@@ -18,19 +18,19 @@ Welcome to the E-Wallet App, your personal finance companion! This Flutter appli
 ## Screenshots
 
 <p align="center">
- <img src="screenshots/Splash_Screen.png" width="200" height="400" />
- <img src="screenshots/Onboarding_Screen1.png" width="200" height="400" />
- <img src="screenshots/Onboarding_Screen2.png" width="200" height="400" />
+ <img src="Screenshots/Splash_Screen.png" width="200" height="400" />
+ <img src="Screenshots/Onboarding_Screen1.png" width="200" height="400" />
+ <img src="Screenshots/Onboarding_Screen2.png" width="200" height="400" />
 </p>
 <p align="center">
-  <img src="screenshots/Onboarding_Screen3.png" width="200" height="400" />
-  <img src="screenshots/Home_Screen.png" width="200" height="400" />
-  <img src="screenshots/Plus_Screen.png" width="200" height="400" />
+  <img src="Screenshots/Onboarding_Screen3.png" width="200" height="400" />
+  <img src="Screenshots/Home_Screen.png" width="200" height="400" />
+  <img src="Screenshots/Plus_Screen.png" width="200" height="400" />
 </p>
 <p align="center">
-  <img src="screenshots/Minus_Screen.png" width="200" height="400" />
-  <img src="screenshots/All_Activities_Screen.png" width="200" height="400" />
-  <img src="screenshots/Dark_Mode.png" width="200" height="400" />
+  <img src="Screenshots/Minus_Screen.png" width="200" height="400" />
+  <img src="Screenshots/All_Activities_Screen.png" width="200" height="400" />
+  <img src="Screenshots/Dark_Mode.png" width="200" height="400" />
 </p>
 
 ## Getting Started
